@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielsilverio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silvério-526171192/)](https://www.linkedin.com/in/gabriel-silvério-526171192/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielsilverio-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bielsil27@gmail.com)](mailto:bielsil27@gmail.com)
 
-I work as a web developer since 2019, when I joined a Joined a Junior Enterprise called <a href="https://ufftech.com">UFFTech</a>. Ever since, I developed many Web pages and Web apps using technologies such as JavaScript, PHP, Laravel and MySQL. Currently, I am working as a Fullstack developer at <a href="https://previsiown.com/en/">Previsiown</a> and studying Information System Analysis.
+My name is Gabriel, and I work as a web developer since 2019, when I joined a Joined a Junior Enterprise called <a href="https://ufftech.com">UFFTech</a>. Ever since, I developed many Web pages and Web apps using technologies such as JavaScript, PHP, Laravel and MySQL. Currently, I am working as a Fullstack developer at <a href="https://previsiown.com/en/">Previsiown</a> and studying Information System Analysis.
 
 ## 🛠️ Languages and Tools:
 <p align="left"> 
