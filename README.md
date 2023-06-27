@@ -15,6 +15,10 @@ I work as a web developer since 2019, when I joined a Joined a Junior Enterprise
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com">
+<img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://jquery.com"> 
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/> </a>
 <a href="https://www.php.net">
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com">
@@ -33,8 +37,6 @@ I work as a web developer since 2019, when I joined a Joined a Junior Enterprise
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
-***
 
 <!--
 **gsilverio7/gsilverio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
