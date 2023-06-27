@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielsilverio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silvério-526171192/)](https://www.linkedin.com/in/gabriel-silvério-526171192/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielsilverio-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bielsil27@gmail.com)](mailto:bielsil27@gmail.com)
