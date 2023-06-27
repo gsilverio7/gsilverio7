@@ -12,7 +12,7 @@ I work as a web developer since 2019, when I joined a Joined a Junior Enterprise
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> 
