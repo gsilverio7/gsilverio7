@@ -5,8 +5,6 @@
 
 I work as a web developer since 2019, when I joined a Joined a Junior Enterprise called <a href="https://ufftech.com">UFFTech</a>. Ever since, I developed many Web pages and Web apps using technologies such as JavaScript, PHP, Laravel and MySQL. Currently, I am working as a Fullstack developer at <a href="https://previsiown.com/en/">Previsiown</a> and studying Information System Analysis.
 
-***
-
 ## 🛠️ Languages and Tools:
 <p align="left"> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
