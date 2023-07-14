@@ -5,7 +5,7 @@
 
 My name is Gabriel, and I work as a web developer since 2019, when I joined a Joined a Junior Enterprise called <a href="https://ufftech.com">UFFTech</a>. Ever since, I developed many Web pages and Web apps using technologies such as JavaScript, PHP, Laravel and MySQL. Currently, I am working as a Fullstack developer at <a href="https://previsiown.com/en/">Previsiown</a> and studying Information System Analysis.
 
-## 🛠️ Stack
+## 💻 Stack
 <!--
 <p align="left"> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
@@ -34,6 +34,8 @@ My name is Gabriel, and I work as a web developer since 2019, when I joined a Jo
 ![Badge](https://img.shields.io/badge/-HTML5-black?logo=html5)
 ![Badge](https://img.shields.io/badge/-CSS3-black?logo=css3)
 ![Badge](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![Badge](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap)
+![Badge](https://img.shields.io/badge/-JQuery-black?logo=jquery)
 ![Badge](https://img.shields.io/badge/-PHP-black?logo=php)
 ![Badge](https://img.shields.io/badge/-Laravel-black?logo=laravel)
 ![Badge](https://img.shields.io/badge/-MySQL-black?logo=mysql)
